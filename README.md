@@ -8,4 +8,8 @@
 **Результат работы приложения**
 ---
 <img width="1011" height="533" alt="Result" src="https://github.com/user-attachments/assets/37026de8-b3e4-4328-975c-0b1b5a082fe0" />
+
+**Окно «Обозреватель тестов»**
 ---
+<img width="1060" height="669" alt="image" src="https://github.com/user-attachments/assets/c9a50887-df3e-4246-bb19-b89f86950c76" />
+
