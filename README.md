@@ -1,4 +1,5 @@
 # Bank
+Практическая работа 6 Алексюк Кристина, Хачатрян Асмик 3ИСиП-323
 **Результат работы приложения**
 ---
 <img width="1011" height="533" alt="Result" src="https://github.com/user-attachments/assets/37026de8-b3e4-4328-975c-0b1b5a082fe0" />
